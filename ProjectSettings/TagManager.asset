@@ -7,6 +7,10 @@ TagManager:
   - solKolon
   - sagKolon
   - kartal
+  - cali
+  - forward
+  - back
+  - jump
   layers:
   - Default
   - TransparentFX
